@@ -1,1 +1,2 @@
-My first commit in a long format
+#!/bin/bash
+My current directory content in long format
