@@ -1,2 +1,2 @@
 #!/bin/bash
-'echo  absolute pathname'
+Absolute pathname for current working directory
