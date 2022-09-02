@@ -1,2 +1,2 @@
 #!/bin/bash
-My current directory content in long format
+Displaying current working directory including hidden files in long format.
