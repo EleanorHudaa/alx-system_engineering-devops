@@ -1,2 +1,2 @@
 #!/bin/bash
-Absolute pathname for current working directory
+My first commit in a long format
