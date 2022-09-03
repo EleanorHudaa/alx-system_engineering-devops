@@ -1,2 +1,2 @@
 #!/bin/bash
-Deleting /tmp/my_first_directory
+Script that changes directory to the previous one
