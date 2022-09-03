@@ -1,2 +1,2 @@
 #!/bin/bash
-Move that file
+Delete betty
